@@ -4,9 +4,11 @@ import android.support.v7.app.AppCompatActivity
 import android.os.Bundle
 import android.view.Menu
 import android.view.MenuItem
+import android.view.View
 import kotlinx.android.synthetic.main.activity_main.*
 
 import org.jetbrains.anko.toast
+
 
 class MainActivity : AppCompatActivity() {
 
@@ -20,10 +22,13 @@ class MainActivity : AppCompatActivity() {
     }
 
     private fun setupView() {
-        this.tapButton.setOnClickListener{
+
+        // Tap Button
+        tapButton.setOnClickListener{
             currentNumber += 1
             numberTextView.text = currentNumber.toString()
         }
+
     }
 
     override fun onCreateOptionsMenu(menu: Menu?): Boolean {
@@ -34,7 +39,7 @@ class MainActivity : AppCompatActivity() {
 
     override fun onOptionsItemSelected(item: MenuItem?): Boolean {
         when(item?.itemId) {
-            R.id.menuReset -> {
+            R.id.resetButton -> {
                 this.currentNumber = 0
                 this.numberTextView.text = "0"
             } else -> this.toast("Error while item selected!")
@@ -43,9 +48,5 @@ class MainActivity : AppCompatActivity() {
 
         return super.onOptionsItemSelected(item)
     }
-
-
-
-
 
 }
