@@ -7,9 +7,6 @@ import android.view.MenuItem
 import android.view.View
 import kotlinx.android.synthetic.main.activity_main.*
 
-import org.jetbrains.anko.toast
-
-
 class MainActivity : AppCompatActivity() {
 
     private var currentNumber = 0
@@ -42,7 +39,7 @@ class MainActivity : AppCompatActivity() {
             R.id.resetButton -> {
                 this.currentNumber = 0
                 this.numberTextView.text = "0"
-            } else -> this.toast("Error while item selected!")
+            } else -> println("item not found onOptionsItemSelected")
         }
 
 
