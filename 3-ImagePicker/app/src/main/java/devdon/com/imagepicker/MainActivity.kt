@@ -17,9 +17,8 @@ import kotlinx.android.synthetic.main.activity_main.*
 
 class MainActivity : AppCompatActivity() {
 
-    private val PERMISSION_CAMERA_REQUEST_CODE = 100
-    private val ACTION_CAMERA_REQUEST_CODE = 200
-    private val ACTION_ALBUM_REQUEST_CODE = 300
+    private val ACTION_CAMERA_REQUEST_CODE = 100
+    private val ACTION_ALBUM_REQUEST_CODE = 200
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
@@ -50,20 +49,11 @@ class MainActivity : AppCompatActivity() {
     }
 
     private val cameraAppButtonHandler = View.OnClickListener { view ->
-        if(ContextCompat.checkSelfPermission(this, Manifest.permission.CAMERA) != PackageManager.PERMISSION_GRANTED){
-            println("請求照相機使用權限")
-            ActivityCompat.requestPermissions(this, arrayOf(Manifest.permission.CAMERA), PERMISSION_CAMERA_REQUEST_CODE)
-
-        } else {
-            println("使用相機")
-            takeImageFromCameraWithIntent()
-
-        }
+        takeImageFromCameraWithIntent()
     }
 
     private val albumAppButtonHandler = View.OnClickListener { view ->
         takeImageFromAlbumWithIntent()
-
     }
 
     private fun displayImage(bitmap: Bitmap) {
@@ -94,16 +84,4 @@ class MainActivity : AppCompatActivity() {
             }
         }
     }
-
-    override fun onRequestPermissionsResult(requestCode: Int, permissions: Array<out String>, grantResults: IntArray) {
-        super.onRequestPermissionsResult(requestCode, permissions, grantResults)
-        if(requestCode == PERMISSION_CAMERA_REQUEST_CODE){
-            if(grantResults.all { it == PackageManager.PERMISSION_GRANTED}){
-                takeImageFromCameraWithIntent()
-            } else {
-                println("拒絕相機使用權限")
-            }
-        }
-    }
-
 }
