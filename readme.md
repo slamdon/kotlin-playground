@@ -11,7 +11,7 @@
  - Event handler
  - Custom menu
 
-## 2 - SeekBar 打折計算
+## 2 - SeekBar Discount
 
 ![SeekBar](resources/seekBarPercentage.gif)
 
@@ -31,7 +31,7 @@
  - ImageView
 
 ## 4 - Scalable ImageView
-![scalable imageView](resources/scalable-imageView.gif)
+![Scalable imageView](resources/scalable-ImageView.gif)
 
 [Blog](https://android.devdon.com/?p=84) - 2017.11.23
 
