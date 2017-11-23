@@ -38,3 +38,5 @@
  - Custom ImageView (Kotlin file + layout xml)
  - Gesture
  - Coordinates
+
+## 5 - 
