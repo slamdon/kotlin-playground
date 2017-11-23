@@ -29,3 +29,12 @@
  - put image into AndroidStudio project
  - open Camera/Album through Intent
  - ImageView
+
+## 4 - Scalable ImageView
+![scalable imageView](resources/scalable-imageView.gif)
+
+[Blog](https://android.devdon.com/?p=84) - 2017.11.23
+
+ - Custom ImageView (Kotlin file + layout xml)
+ - Gesture
+ - Coordinates
