@@ -31,7 +31,7 @@
  - ImageView
 
 ## 4 - Scalable ImageView
-![Scalable imageView](resources/scalable-ImageView.gif)
+![Scalable imageView](resources/4-scalable-imageView.gif)
 
 [Blog](https://android.devdon.com/?p=84) - 2017.11.23
 
