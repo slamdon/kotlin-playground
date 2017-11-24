@@ -29,6 +29,7 @@
  - put image into AndroidStudio project
  - open Camera/Album through Intent
  - ImageView
+ - uses-permission
 
 ## 4 - Scalable ImageView
 ![Scalable imageView](resources/4-scalable-imageView.gif)
@@ -39,4 +40,11 @@
  - Gesture
  - Coordinates
 
-## 5 - 
+## 5 - Search on WebView
+![Scalable imageView](resources/5-WebSearch.gif)
+
+[Blog](https://android.devdon.com/?p=93) - 2017.11.23
+
+ - Webview
+ - Keyboard
+ - TextView Event
