@@ -3,7 +3,7 @@
 
 ## 1 - Tap Counter
 
-![TapCounter](resources/tap-counter.gif)
+![TapCounter](resources/1-tap-counter.gif)
 
 [Blog](https://android.devdon.com/?p=35) / [Source Code](https://github.com/slamdon/kotlin-playground/tree/master/1-Tap-Counter) - 2017.11.20
 
@@ -13,7 +13,7 @@
 
 ## 2 - SeekBar Discount
 
-![SeekBar](resources/seekBarPercentage.gif)
+![SeekBar](resources/2-seekBarPercentage.gif)
 
 [Blog](https://android.devdon.com/?p=43) / [Source Code](https://github.com/slamdon/kotlin-playground/tree/master/2-SeekBarPercentage) - 2017.11.21
 
@@ -22,7 +22,7 @@
  - Keyboard
  
 ## 3 - Image Picker
-![Image Picker](resources/image-picker.gif)
+![Image Picker](resources/3-image-picker.gif)
 
 [Blog](https://android.devdon.com/?p=61) - 2017.11.22
 
@@ -43,8 +43,17 @@
 ## 5 - Search on WebView
 ![Scalable imageView](resources/5-WebSearch.gif)
 
-[Blog](https://android.devdon.com/?p=93) - 2017.11.23
+[Blog](https://android.devdon.com/?p=93) - 2017.11.24
 
  - Webview
  - Keyboard
  - TextView Event
+
+## 6 - Image List (RecyclerView)
+![Scalable imageView](resources/6-imagelist.gif)
+
+[Blog](https://android.devdon.com/?p=113) - 2017.11.25
+
+ - RecyclerView
+ - Adapter / ViewHolder
+ - model (data class)
