@@ -50,7 +50,7 @@
  - TextView Event
 
 ## 6 - Image List (RecyclerView)
-![Scalable imageView](resources/6-imagelist.gif)
+![Scalable imageView](resources/6-imageList.gif)
 
 [Blog](https://android.devdon.com/?p=113) - 2017.11.25
 
