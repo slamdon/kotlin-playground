@@ -57,3 +57,11 @@
  - RecyclerView
  - Adapter / ViewHolder
  - model (data class)
+
+## 7 - MyLocation (GoogleMap)
+![Scalable imageView](resources/7-MyLocation.gif)
+
+[Blog]() - 2017.11.26
+
+ - GoogleMap
+ - LocationManager
