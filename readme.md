@@ -29,7 +29,6 @@
  - put image into AndroidStudio project
  - open Camera/Album through Intent
  - ImageView
- - uses-permission
 
 ## 4 - Scalable ImageView
 ![Scalable imageView](resources/4-scalable-imageView.gif)
@@ -61,7 +60,9 @@
 ## 7 - MyLocation (GoogleMap)
 ![Scalable imageView](resources/7-MyLocation.gif)
 
-[Blog]() - 2017.11.26
+[Blog](https://android.devdon.com/?p=128) - 2017.11.26
 
  - GoogleMap
  - LocationManager
+ - uses-permission
+ - change activity by intent

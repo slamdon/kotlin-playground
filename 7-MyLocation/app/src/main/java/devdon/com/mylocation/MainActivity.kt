@@ -19,9 +19,8 @@ class MainActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
 
-
+        // set click handler
         locationButton.setOnClickListener(locationButtonHandler)
-
     }
 
     override fun onRequestPermissionsResult(requestCode: Int, permissions: Array<out String>, grantResults: IntArray){
@@ -45,7 +44,7 @@ class MainActivity : AppCompatActivity() {
     }
 
     private fun showMapsActivity() {
-        val intentMapActivity = Intent(this,MapsActivity::class.java)
+        val intentMapActivity = Intent(this, MapsActivity::class.java)
         startActivity(intentMapActivity)
     }
 
