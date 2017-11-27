@@ -66,3 +66,8 @@
  - LocationManager
  - uses-permission
  - change activity by intent
+
+## 8 - BottomNavigation
+![Scalable imageView](resources/8-BottomNavigation.gif)
+
+[Blog](https://android.devdon.com/?p=149) / [Source Code](https://github.com/slamdon/kotlin-playground/tree/master/7-MyLocation) - 2017.11.27
