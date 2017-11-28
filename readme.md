@@ -80,5 +80,5 @@
 ## 9 - ImageSlider
 ![Scalable imageView](resources/9-ImageSlider.gif)
 
-[Blog](https://android.devdon.com/?p=162) / [Source Code](https://github.com/slamdon/kotlin-playground/tree/master/8-BottomNavigation) - 2017.11.28
+[Blog](https://android.devdon.com/?p=162) / [Source Code](https://github.com/slamdon/kotlin-playground/tree/master/9-ImageSlider) - 2017.11.28
 
