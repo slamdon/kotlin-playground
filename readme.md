@@ -82,3 +82,6 @@
 
 [Blog](https://android.devdon.com/?p=162) / [Source Code](https://github.com/slamdon/kotlin-playground/tree/master/9-ImageSlider) - 2017.11.28
 
+ - ViewPager
+ - PagerAdapter
+ - Fragment
