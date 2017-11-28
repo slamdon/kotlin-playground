@@ -72,3 +72,13 @@
 
 [Blog](https://android.devdon.com/?p=149) / [Source Code](https://github.com/slamdon/kotlin-playground/tree/master/8-BottomNavigation) - 2017.11.27
 
+ - Fragment
+ - BottomNavigation
+ - icon in SVG
+ - intent with flag
+
+## 9 - ImageSlider
+![Scalable imageView](resources/9-ImageSlider.gif)
+
+[Blog](https://android.devdon.com/?p=162) / [Source Code](https://github.com/slamdon/kotlin-playground/tree/master/8-BottomNavigation) - 2017.11.28
+
