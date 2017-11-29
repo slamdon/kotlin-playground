@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/SeekBarPercentage.iml" filepath="$PROJECT_DIR$/SeekBarPercentage.iml" />
+      <module fileurl="file://$PROJECT_DIR$/2-SeekBarPercentage.iml" filepath="$PROJECT_DIR$/2-SeekBarPercentage.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
     </modules>
   </component>
