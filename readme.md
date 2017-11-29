@@ -85,3 +85,11 @@
  - ViewPager
  - PagerAdapter
  - Fragment
+
+## 10 - ProgressBarHandler
+![Scalable imageView](resources/10-ProgressControl.gif)
+
+[Blog](https://android.devdon.com/?p=181) / [Source Code](https://github.com/slamdon/kotlin-playground/tree/master/9-ImageSlider) - 2017.11.29
+
+ - ProgressBar
+ - Handler
