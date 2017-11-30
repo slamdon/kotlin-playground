@@ -97,7 +97,7 @@
 ## 11 - ActivitySchedule
 ![Scalable imageView](resources/11-ActivitySchedule.gif)
 
-[Blog](https://android.devdon.com/?p=239) / [Source Code](https://github.com/slamdon/kotlin-playground/tree/master/10-ProgressControl) - 2017.11.30
+[Blog](https://android.devdon.com/?p=239) / [Source Code](https://github.com/slamdon/kotlin-playground/tree/master/11-ActivitySchedule) - 2017.11.30
 
  - Calendar
  - DatePickerDialog / TimePickerDialog
