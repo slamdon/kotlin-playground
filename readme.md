@@ -112,3 +112,10 @@
  - OkHttp
  - RecyclerView
  - Intent & Parcelable
+
+## 13 - LocalStorage
+![Scalable imageView](resources/13-LocalStorage.gif)
+
+[Blog](https://android.devdon.com/?p=267) / [Source Code](https://github.com/slamdon/kotlin-playground/tree/master/13-LocalStorage) - 2017.12.02
+
+ - SharedPreferences
