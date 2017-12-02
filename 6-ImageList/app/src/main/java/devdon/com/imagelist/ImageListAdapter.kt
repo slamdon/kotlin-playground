@@ -1,7 +1,5 @@
 package devdon.com.imagelist
 
-import android.content.res.AssetManager
-import android.content.res.Resources
 import android.support.v7.widget.RecyclerView
 import android.view.LayoutInflater
 import android.view.View

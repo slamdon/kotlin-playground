@@ -103,3 +103,12 @@
  - DatePickerDialog / TimePickerDialog
  - SimpleDateFormat
  - AlertDialog
+
+## 12 - GithubStars
+![Scalable imageView](resources/12-GitHubStars.gif)
+
+[Blog](https://android.devdon.com/?p=258) / [Source Code](https://github.com/slamdon/kotlin-playground/tree/master/11-ActivitySchedule) - 2017.12.01
+
+ - OkHttp
+ - RecyclerView
+ - Intent & Parcelable
