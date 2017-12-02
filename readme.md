@@ -105,7 +105,7 @@
  - AlertDialog
 
 ## 12 - GithubStars
-![Scalable imageView](resources/12-GitHubStars.gif)
+![Scalable imageView](resources/12-GithubStars.gif)
 
 [Blog](https://android.devdon.com/?p=258) / [Source Code](https://github.com/slamdon/kotlin-playground/tree/master/12-GtihubStars) - 2017.12.01
 
