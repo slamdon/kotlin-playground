@@ -119,3 +119,10 @@
 [Blog](https://android.devdon.com/?p=267) / [Source Code](https://github.com/slamdon/kotlin-playground/tree/master/13-LocalStorage) - 2017.12.02
 
  - SharedPreferences
+
+## 14 - Ball
+![Scalable imageView](resources/14-Ball.gif)
+
+[Blog](https://android.devdon.com/?p=267) / [Source Code](https://github.com/slamdon/kotlin-playground/tree/master/13-LocalStorage) - 2017.12.03
+
+ - ValueProperty
