@@ -125,4 +125,16 @@
 
 [Blog](https://android.devdon.com/?p=273) / [Source Code](https://github.com/slamdon/kotlin-playground/tree/master/14-Ball) - 2017.12.03
 
- - ValueProperty
+ - ValueAnimator
+ - ObjectAnimator
+ - AnimatorSet
+
+## 15 - Notification
+![Notification](resources/15-Notification.gif)
+
+[Blog](https://android.devdon.com/?p=281) / [Source Code](https://github.com/slamdon/kotlin-playground/tree/master/14-Ball) - 2017.12.04
+
+ - Notification.Builder
+ - NotificationManager
+
+ 
