@@ -132,7 +132,7 @@
 ## 15 - Notification
 ![Notification](resources/15-Notification.gif)
 
-[Blog](https://android.devdon.com/?p=281) / [Source Code](https://github.com/slamdon/kotlin-playground) - 2017.12.04
+[Blog](https://android.devdon.com/?p=281) / [Source Code](https://github.com/slamdon/kotlin-playground/tree/master/15-Notification) - 2017.12.04
 
  - Notification.Builder
  - NotificationManager
