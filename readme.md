@@ -1,5 +1,7 @@
 # Kotlin Playground
-學習通過 Kotlin 開發 Android App
+連續 30 天學習通過 Kotlin 學習開發 Android App 每一天都會做一個例子，並且將心得記錄在 Blog  [https://android.devdon.com/?page_id=105](https://android.devdon.com/?page_id=105)
+
+
 
 ## 1 - Tap Counter
 
@@ -145,4 +147,12 @@
  - Firebase
  - BroadcastReceiver
 
+## 17 - PullToRequest
+![PullToRequest](17-PullToRequest.gif)
+
+[Blog](https://android.devdon.com/?p=322) / [Source Code]()
+
+ - GridLayoutManager
+ - CardView
+ - SwipeRefreshLayout
  
