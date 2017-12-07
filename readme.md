@@ -148,11 +148,18 @@
  - BroadcastReceiver
 
 ## 17 - PullToRequest
-![PullToRequest](17-PullToRequest.gif)
+![PullToRequest](resources/17-PullToRequest.gif)
 
-[Blog](https://android.devdon.com/?p=322) / [Source Code]()
+[Blog](https://android.devdon.com/?p=322) / [Source Code](https://github.com/slamdon/kotlin-playground/tree/master/17-PullToRequest)
 
  - GridLayoutManager
  - CardView
  - SwipeRefreshLayout
  
+## 18 - SlideMenu
+![SlideMenu](resources/18-SlideMenu.gif)
+[Blog](https://android.devdon.com/?p=341) / [Source Code]()
+
+ - DrawerActivity
+ - NavigationView
+ - Toolbar
