@@ -158,7 +158,8 @@
  
 ## 18 - SlideMenu
 ![SlideMenu](resources/18-SlideMenu.gif)
-[Blog](https://android.devdon.com/?p=341) / [Source Code]()
+
+[Blog](https://android.devdon.com/?p=341) / [Source Code](https://github.com/slamdon/kotlin-playground/tree/master/18-SideMenu)
 
  - DrawerActivity
  - NavigationView
