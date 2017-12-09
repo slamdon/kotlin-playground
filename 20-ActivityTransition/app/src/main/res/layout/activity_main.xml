@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="devdon.com.activitytransition.MainActivity">
+
+    <ImageView
+        android:id="@+id/catImageView"
+        android:layout_width="384dp"
+        android:layout_height="245dp"
+        android:scaleType="centerCrop"
+        android:transitionName="catTransition"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:srcCompat="@drawable/img_cat" />
+
+    <Button
+        android:id="@+id/explodeButton"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_marginEnd="8dp"
+        android:layout_marginStart="8dp"
+        android:layout_marginTop="8dp"
+        android:background="@color/colorPrimary"
+        android:text="Explode"
+        android:textColor="@android:color/background_light"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/loveImageView" />
+
+    <Button
+        android:id="@+id/slideButton"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="8dp"
+        android:background="@color/colorPrimary"
+        android:text="Slide"
+        android:textColor="@android:color/background_light"
+        app:layout_constraintEnd_toEndOf="@+id/explodeButton"
+        app:layout_constraintStart_toStartOf="@+id/explodeButton"
+        app:layout_constraintTop_toBottomOf="@+id/explodeButton" />
+
+    <Button
+        android:id="@+id/fadeButton"
+        android:layout_width="0dp"
+        android:layout_height="46dp"
+        android:layout_marginTop="8dp"
+        android:background="@color/colorPrimary"
+        android:text="Fade"
+        android:textColor="@android:color/background_light"
+        app:layout_constraintEnd_toEndOf="@+id/slideButton"
+        app:layout_constraintStart_toStartOf="@+id/slideButton"
+        app:layout_constraintTop_toBottomOf="@+id/slideButton" />
+
+    <ImageView
+        android:id="@+id/loveImageView"
+        android:layout_width="0dp"
+        android:layout_height="60dp"
+        android:layout_marginEnd="8dp"
+        android:layout_marginStart="8dp"
+        android:layout_marginTop="8dp"
+        android:scaleType="centerInside"
+        android:transitionName="textTransition"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="1.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/catImageView"
+        app:srcCompat="@drawable/img_love" />
+
+</android.support.constraint.ConstraintLayout>
