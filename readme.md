@@ -172,3 +172,11 @@
 
  - MediaPlayer
  - MediaRecorder
+
+# 20 - ActivityTransition
+![ActivityTransition](resources/20-ActivityTransition.gif)
+
+[Blog](https://android.devdon.com/archives/379) / [Source Code](https://github.com/slamdon/kotlin-playground/tree/master/20-ActivityTransition)
+
+ - Transition
+
