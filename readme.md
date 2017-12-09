@@ -164,3 +164,11 @@
  - DrawerActivity
  - NavigationView
  - Toolbar
+
+## 19 - LittleBirdSound
+![Little Bird Sound](resources/19-LittleBirdSound.gif)
+
+[Blog](https://android.devdon.com/archives/354) / [Source Code](https://github.com/slamdon/kotlin-playground/tree/master/19-LittleBirdSound)
+
+ - MediaPlayer
+ - MediaRecorder
