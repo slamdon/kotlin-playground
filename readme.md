@@ -180,3 +180,10 @@
 
  - Transition
 
+# 21 - LayoutSwitch
+![ActivityTransition](resources/21-LayoutSwitch.gif)
+
+[Blog](https://android.devdon.com/archives/394) / [Source Code](https://github.com/slamdon/kotlin-playground/tree/master/20-ActivityTransition)
+
+ - GridLayoutManager
+ - RecyclerView
