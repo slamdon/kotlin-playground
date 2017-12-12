@@ -199,7 +199,8 @@
 # 23 - GoogleVoice
 ![GoogleVoice](resources/23-GoogleVoice.gif)
 
-[Blog]() / [SourceCode]()
+[Blog](https://android.devdon.com/archives/417) / [SourceCode](https://github.com/slamdon/kotlin-playground/tree/master/23-GoogleVoice)
 
- - ACTION_RECOGNIZE_SPEECH
- - 
+ - Android.Speech
+ - ACTION RECOGNIZE SPEECH
+ - RecognizerIntent
