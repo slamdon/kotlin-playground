@@ -191,7 +191,15 @@
 # 22 - LocalDatabase
 ![Local Database](resources/22-LocalDatabase.gif)
 
-[Blog]()
+[Blog](https://android.devdon.com/archives/410) / [SourceCode](https://github.com/slamdon/kotlin-playground/tree/master/22-LocalDatabase)
 
  - SQLite
  - SQLiteOpenHelper
+
+# 23 - GoogleVoice
+![GoogleVoice](resources/23-GoogleVoice.gif)
+
+[Blog]() / [SourceCode]()
+
+ - ACTION_RECOGNIZE_SPEECH
+ - 
