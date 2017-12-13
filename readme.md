@@ -204,3 +204,13 @@
  - Android.Speech
  - ACTION RECOGNIZE SPEECH
  - RecognizerIntent
+
+# 24 - Painter
+![Painter](resources/24-Painter.gif)
+
+[Blog](https://android.devdon.com/archives/435) / [Source Code](https://github.com/slamdon/kotlin-playground/tree/master/24-Painter)
+
+ - View
+ - Canvas
+ - File
+ - Bitmap
