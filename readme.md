@@ -214,3 +214,13 @@
  - Canvas
  - File
  - Bitmap
+
+ 
+# 25 - FaceRecognizer
+![FaceRecognizer](resources/25-FaceDetection.gif)
+
+[Blog](https://android.devdon.com/archives/446) / [Source Code](https://github.com/slamdon/kotlin-playground/tree/master/25-FaceRecognizer)
+
+ - Face Detector
+ - Bitmap
+ - Canvas
