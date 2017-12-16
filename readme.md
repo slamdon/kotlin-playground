@@ -237,7 +237,7 @@
 # 27 - ShakeShake
 ![ShakeShake](resources/27-ShakeShake.gif)
 
-[Blog](https://android.devdon.com/archives/477) / [Source Code]()
+[Blog](https://android.devdon.com/archives/477) / [Source Code](https://github.com/slamdon/kotlin-playground/tree/master/27-ShakeShake)
 
  - SensorManager
  - Vibrator
