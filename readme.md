@@ -234,3 +234,10 @@
  - Intent
  - Intent Filter
 
+# 27 - ShakeShake
+![ShakeShake](resources/27-ShakeShake.gif)
+
+[Blog](https://android.devdon.com/archives/477) / [Source Code]()
+
+ - SensorManager
+ - Vibrator
