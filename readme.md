@@ -241,3 +241,12 @@
 
  - SensorManager
  - Vibrator
+
+# 28 - Parks
+![Parks](resources/28-Parks.gif)
+
+[Blog](Kotlin 開發第 28 天 Parks ( ViewPager + TabLayout )) / [Source Code]()
+
+ - TabLayout
+ - ViewPager
+ - FragmentPagerAdapter
