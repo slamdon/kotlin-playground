@@ -254,7 +254,7 @@
 # 29 - ShowView
 ![ShowView](resources/29-ShowView.gif)
 
-[Blog](https://android.devdon.com/archives/497) / [Source Code]()
+[Blog](https://android.devdon.com/archives/497) / [Source Code](https://github.com/slamdon/kotlin-playground/tree/master/29-ShowView)
 
  - PopupWindow
  - FloatingActionButton
