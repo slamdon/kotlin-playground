@@ -250,3 +250,12 @@
  - TabLayout
  - ViewPager
  - FragmentPagerAdapter
+
+# 29 - ShowView
+![ShowView](resources/29-ShowView.gif)
+
+[Blog](https://android.devdon.com/archives/497) / [Source Code]()
+
+ - PopupWindow
+ - FloatingActionButton
+ - Animation
