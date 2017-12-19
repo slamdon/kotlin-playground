@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="devdon.com.videoplayer.MainActivity">
+
+    <VideoView
+        android:id="@+id/layout_video_view"
+        android:layout_width="0dp"
+        android:layout_height="240dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <Button
+        android:id="@+id/main_playButton"
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:layout_marginEnd="8dp"
+        android:layout_marginStart="8dp"
+        android:background="@drawable/icon_play"
+        android:backgroundTint="@color/colorPrimary"
+        app:layout_constraintEnd_toStartOf="@+id/main_pauseButton"
+        app:layout_constraintHorizontal_bias="0.275"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="@+id/main_pauseButton" />
+
+    <Button
+        android:id="@+id/main_pauseButton"
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:layout_marginEnd="8dp"
+        android:layout_marginStart="8dp"
+        android:layout_marginTop="8dp"
+        android:background="@drawable/icon_pause"
+        android:backgroundTint="@color/colorPrimary"
+        app:layout_constraintEnd_toStartOf="@+id/main_stopButton"
+        app:layout_constraintStart_toEndOf="@+id/main_playButton"
+        app:layout_constraintTop_toBottomOf="@+id/layout_video_view" />
+
+    <Button
+        android:id="@+id/main_stopButton"
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:layout_marginEnd="8dp"
+        android:layout_marginStart="8dp"
+        android:background="@drawable/icon_stop"
+        android:backgroundTint="@color/colorPrimary"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toEndOf="@+id/main_pauseButton"
+        app:layout_constraintTop_toTopOf="@+id/main_pauseButton" />
+
+</android.support.constraint.ConstraintLayout>
