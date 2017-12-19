@@ -259,3 +259,8 @@
  - PopupWindow
  - FloatingActionButton
  - Animation
+
+# 30 - VideoPlayer
+![VideoPlayer](resources/30-VideoPlayer.gif)
+
+[Blog](https://android.devdon.com/archives/514) / [Source Code](https://github.com/slamdon/kotlin-playground/tree/master/30-VideoPlayer)
