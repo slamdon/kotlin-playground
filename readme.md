@@ -2,6 +2,8 @@
 當了幾年的 iOS 工程師，一直都想要了解一下 Android 的開放世界。
 在發現和 Swift 極其相似的 Kotlin 之後，打算連續投入 30天的時間來熟悉這個新的世界。
 
+![Kotlin Examples](resources/Android-App-Examples.png)
+
 每一天都會做一個例子，並且將心得記錄在 Blog  
 [https://android.devdon.com/?page_id=105](https://android.devdon.com/?page_id=105)
 
