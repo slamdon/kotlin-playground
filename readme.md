@@ -251,7 +251,7 @@
 # 28 - Parks
 ![Parks](resources/28-Parks.gif)
 
-[Blog](Kotlin 開發第 28 天 Parks ( ViewPager + TabLayout )) / [Source Code](https://github.com/slamdon/kotlin-playground/tree/master/28-Parks)
+[Blog](https://android.devdon.com/archives/483) / [Source Code](https://github.com/slamdon/kotlin-playground/tree/master/28-Parks)
 
  - TabLayout
  - ViewPager
